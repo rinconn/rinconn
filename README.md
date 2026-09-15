@@ -51,6 +51,20 @@ API REST para gestión de una clínica, desarrollada con Java. Incluye endpoints
 
 ---
 
+### [ScriptBay](https://github.com/zzmillann/ScriptBay)
+Proyecto en equipo desarrollado en Solidity. *(Colaboración con [@zzmillann](https://github.com/zzmillann))*
+
+`Solidity`
+
+---
+
+### [TsenderPython](https://github.com/zzmillann/TsenderPython)
+Proyecto en equipo desarrollado en Python. *(Colaboración con [@zzmillann](https://github.com/zzmillann))*
+
+`Python`
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rinconn&color=58a6ff&style=flat-square&label=Profile+views" alt="Profile views" />
 </div>
