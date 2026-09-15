@@ -38,7 +38,7 @@ Soy Enrique Rincón, desarrollador fullstack con experiencia construyendo aplica
 ## 🚀 Proyectos destacados
 
 ### [Proyecto-DWEC-EnriqueYMarcos](https://github.com/rinconn/Proyecto-DWEC-EnriqueYMarcos)
-Proyecto web desarrollado para la asignatura de Desarrollo Web en Entorno Cliente. Aplicación frontend con HTML, CSS y JavaScript.
+Proyecto web desarrollado para la asignatura de Desarrollo Web en Entorno Cliente. Aplicación frontend con HTML, CSS y JavaScript. *(Colaboración con [@marcosruizzz](https://github.com/marcosruizzz))*
 
 `HTML` `CSS` `JavaScript`
 
