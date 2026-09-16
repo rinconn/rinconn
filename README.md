@@ -34,9 +34,6 @@ Soy Enrique Rincón, desarrollador fullstack con experiencia construyendo aplica
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rinconn&show_icons=true&theme=transparent&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&bg_color=00000000&border_color=00d9ff&hide_border=false" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinconn&layout=compact&theme=transparent&title_color=00d9ff&text_color=ffffff&bg_color=00000000&border_color=00d9ff&hide_border=false" width="48%" />
-
 <img src="https://streak-stats.demolab.com/?user=rinconn&theme=transparent&hide_border=false&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" width="60%" />
 
 </div>
