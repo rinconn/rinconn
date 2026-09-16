@@ -51,14 +51,14 @@ API REST para gestión de una clínica, desarrollada con Java. Incluye endpoints
 
 ---
 
-### [ScriptBay](https://github.com/zzmillann/ScriptBay)
+### [ScriptBay](https://github.com/rinconn/ScriptBay)
 Proyecto en equipo desarrollado en Solidity. *(Colaboración con [@zzmillann](https://github.com/zzmillann) y [@marcosruizzz](https://github.com/marcosruizzz))*
 
 `Solidity`
 
 ---
 
-### [TsenderPython](https://github.com/zzmillann/TsenderPython)
+### [TsenderPython](https://github.com/rinconn/TsenderPython)
 Proyecto en equipo desarrollado en Python. *(Colaboración con [@zzmillann](https://github.com/zzmillann) y [@marcosruizzz](https://github.com/marcosruizzz))*
 
 `Python`
