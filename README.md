@@ -40,21 +40,11 @@ Soy Enrique Rincón, desarrollador fullstack con experiencia construyendo aplica
 
 ---
 
-## 🐍 Contribuciones
-
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/rinconn/rinconn/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 🌆 Skyline de contribuciones
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rinconn/.github-workflows-snake.yml/main/profile-3d-contrib/profile-night-view.svg" />
+<img src="https://raw.githubusercontent.com/rinconn/.github-workflows-snake.yml/main/profile-3d-contrib/profile-night-rainbow.svg" />
 
 </div>
 
