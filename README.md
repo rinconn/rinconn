@@ -50,6 +50,16 @@ Soy Enrique Rincón, desarrollador fullstack con experiencia construyendo aplica
 
 ---
 
+## 🌆 Skyline de contribuciones
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rinconn/.github-workflows-snake.yml/main/profile-3d-contrib/profile-night-view.svg" />
+
+</div>
+
+---
+
 ## 🚀 Proyectos destacados
 
 ### [Proyecto-DWEC-EnriqueYMarcos](https://github.com/rinconn/Proyecto-DWEC-EnriqueYMarcos)
