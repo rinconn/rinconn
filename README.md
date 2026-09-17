@@ -13,8 +13,7 @@
 
 Soy Enrique Rincón, desarrollador fullstack con experiencia construyendo aplicaciones web completas. Me manejo tanto en frontend como en backend, con especial interés en crear soluciones limpias, escalables y orientadas al usuario. Siempre aprendiendo y buscando mejorar.
 
-🎓 Estudiando DAW (Desarrollo de Aplicaciones Web)
-💼 Actualmente de prácticas como desarrollador fullstack
+
 
 ---
 
