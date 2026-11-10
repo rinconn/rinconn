@@ -43,7 +43,7 @@ Soy Enrique Rincón, desarrollador fullstack con experiencia construyendo aplica
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rinconn/.github-workflows-snake.yml/main/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://raw.githubusercontent.com/rinconn/rinconn/main/profile-3d-contrib/profile-night-rainbow.svg" />
 
 </div>
 
